@@ -1,0 +1,26 @@
+{
+  "name": "javascript-asynchronism-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiosinlimites/javascript-asynchronism-course.git"
+  },
+  "keywords": [
+    "javascript",
+    "async"
+  ],
+  "author": "Sergio Andrés Bolaños Penagos <sergioandresbolanospenagos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiosinlimites/javascript-asynchronism-course/issues"
+  },
+  "homepage": "https://github.com/sergiosinlimites/javascript-asynchronism-course#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
